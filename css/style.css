@@ -1,0 +1,28 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+h1 {
+  color: #007bff;
+}
+
+input, button {
+  padding: 10px;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+#mensaje {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+#intentosRestantes {
+  margin-top: 10px;
+  color: #555;
+}
